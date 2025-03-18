@@ -1,21 +1,21 @@
-# Guder Informationstechnik GmbH - Softwareentwicklung
+# Software Engineer - Personal GitHub Profile
 
-Willkommen auf dem GitHub-Profil der **Guder Informationstechnik GmbH**! Wir sind ein IT-Dienstleister mit Fokus auf **Systemintegration** und **individuelle Softwareentwicklung**. Unsere Softwareabteilung entwickelt maßgeschneiderte **Desktop-, Web- und API-Lösungen** für kleine und mittelständische Unternehmen.
+Welcome to my GitHub profile! I am a **Software Engineer** at **Guder Informationstechnik GmbH**, specializing in **custom software development** for small and medium-sized businesses. My focus is on **desktop, web, and API solutions** using modern technologies.
 
-🔗 [Website der Firma](https://www.guder-informationstechnik.de/)
+🔗 [Company Website](https://www.guder-informationstechnik.de/)
 
-## 💻 Über mich
-Ich bin **Software Engineer** in der Softwareabteilung und entwickle **individuelle Softwarelösungen** mit modernen Technologien:
+## 💻 About Me
+I am passionate about building efficient and scalable software solutions. My main expertise includes:
 
-- **Programmiersprachen:** C# (.NET 8), HTML, CSS
+- **Programming Languages:** C# (.NET 8), HTML, CSS
 - **Frameworks & Tools:**
-  - **Desktop:** WPF mit XAML (Caliburn.Micro)
+  - **Desktop:** WPF with XAML (Caliburn.Micro)
   - **Web & API:** .NET 8
   - **Testing:** xUnit, FluentAssertions, NSubstitute
-  - **Sonstiges:** Eigene Logger, Dependency Injection, Utility-Bibliotheken
+  - **Miscellaneous:** Custom loggers, dependency injection, utility libraries
 
-## 📬 Kontakt
-📧 **E-Mail:** [wodrazka@guder.it](mailto:wodrazka@guder.it)  
+## 📬 Contact
+📧 **Email:** [wodrazka@guder.it](mailto:wodrazka@guder.it)  
 
 ---
-✍️ **Hinweis:** Dieses Profil wird für interne und externe Softwareprojekte genutzt.
+✍️ **Note:** This is my personal GitHub profile used for development and collaboration.

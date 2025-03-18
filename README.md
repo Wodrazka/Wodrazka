@@ -15,8 +15,8 @@ Ich bin **Software Engineer** in der Softwareabteilung und entwickle **individue
   - **Sonstiges:** Eigene Logger, Dependency Injection, Utility-Bibliotheken
 
 ## 📊 GitHub-Statistiken
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLACEHOLDER&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLACEHOLDER&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wodrazka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wodrazka&layout=compact&theme=radical)
 
 ## 📬 Kontakt
 📧 **E-Mail:** [wodrazka@guder.it](mailto:wodrazka@guder.it)  

@@ -10,8 +10,8 @@ I am passionate about building efficient and scalable software solutions. My mai
 - **Programming Languages:** C# (.NET 8), HTML, CSS
 - **Frameworks & Tools:**
   - **Desktop:** WPF with XAML (Caliburn.Micro)
-  - **Web & API:** .NET 8
-  - **Testing:** xUnit, FluentAssertions, NSubstitute
+  - **Web & API:** .NET 8, Swagger
+  - **Testing:** xUnit, FluentAssertions, NSubstitute, Postman
   - **Miscellaneous:** Custom loggers, dependency injection, utility libraries
 
 ## 📬 Contact
